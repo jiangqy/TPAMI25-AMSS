@@ -1,4 +1,4 @@
-# Released Code for Paper " Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks"
+# Released Code for Paper "Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks"
 
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 - Authors: Yang Yang, Hongpeng Pan, Qing-Yuan Jiang, Yi Xu, and Jinhui Tang 
 - Contact: yyang@njust.edu.cn
-- [Paper Link](Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks)
+- [Paper Link](https://arxiv.org/pdf/2404.08347v1)
 
 ## 1.Introduction
 
