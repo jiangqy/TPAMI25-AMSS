@@ -156,7 +156,7 @@ python -W ignore train_test_IT.py --dataset=Twitter15 --batch_size=16 --test_bat
 python -W ignore train_test_IT.py --dataset=Sarcasm --batch_size=32 --test_batch_size=32 --fusion_method=concat --gpu_id=0 --mask_resnet=1 --mask_ffn=1 --isbias=1 --temperature=0.5 --sample_mode=Adaptive --optimizer=Adam --lr=0.000002 --bias=0.2 --gn_mode=gn --patience=40 --epoch=50--our_model=Adaptive
 ```
 
-####AMSS for NVGesture
+#### AMSS for NVGesture
 
 ```bash
 python -W ignore train_nv.py --lr=0.01 --epoch=100 --single_pretrain=0 --patience=80 --our_model='meta' --batch-size=4 --mask_resnet=1 --mask_ffn=1 --isbias=0
